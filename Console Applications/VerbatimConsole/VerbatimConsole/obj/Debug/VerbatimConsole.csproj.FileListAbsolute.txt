@@ -1,0 +1,7 @@
+C:\Users\RONOK\Desktop\Basis Homework\VerbatimConsole\VerbatimConsole\bin\Debug\VerbatimConsole.exe.config
+F:\My Practices\Practices\Practices Set Two\VerbatimConsole\VerbatimConsole\bin\Debug\VerbatimConsole.exe.config
+F:\My Practices\Practices\Practices Set Two\VerbatimConsole\VerbatimConsole\obj\Debug\VerbatimConsole.csprojResolveAssemblyReference.cache
+F:\My Practices\Practices\Practices Set Two\VerbatimConsole\VerbatimConsole\bin\Debug\VerbatimConsole.exe
+F:\My Practices\Practices\Practices Set Two\VerbatimConsole\VerbatimConsole\bin\Debug\VerbatimConsole.pdb
+F:\My Practices\Practices\Practices Set Two\VerbatimConsole\VerbatimConsole\obj\Debug\VerbatimConsole.exe
+F:\My Practices\Practices\Practices Set Two\VerbatimConsole\VerbatimConsole\obj\Debug\VerbatimConsole.pdb

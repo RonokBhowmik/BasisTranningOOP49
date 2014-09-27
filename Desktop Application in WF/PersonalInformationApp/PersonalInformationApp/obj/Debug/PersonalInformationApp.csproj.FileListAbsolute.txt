@@ -1,0 +1,9 @@
+F:\My Practices\Practices\PersonalInformationApp\PersonalInformationApp\bin\Debug\PersonalInformationApp.exe.config
+F:\My Practices\Practices\PersonalInformationApp\PersonalInformationApp\bin\Debug\PersonalInformationApp.exe
+F:\My Practices\Practices\PersonalInformationApp\PersonalInformationApp\bin\Debug\PersonalInformationApp.pdb
+F:\My Practices\Practices\PersonalInformationApp\PersonalInformationApp\obj\Debug\PersonalInformationApp.csprojResolveAssemblyReference.cache
+F:\My Practices\Practices\PersonalInformationApp\PersonalInformationApp\obj\Debug\PersonalInformationApp.Properties.Resources.resources
+F:\My Practices\Practices\PersonalInformationApp\PersonalInformationApp\obj\Debug\PersonalInformationApp.csproj.GenerateResource.Cache
+F:\My Practices\Practices\PersonalInformationApp\PersonalInformationApp\obj\Debug\PersonalInformationApp.exe
+F:\My Practices\Practices\PersonalInformationApp\PersonalInformationApp\obj\Debug\PersonalInformationApp.pdb
+F:\My Practices\Practices\PersonalInformationApp\PersonalInformationApp\obj\Debug\PersonalInformationApp.PersonalInformationAppUI.resources

@@ -1,0 +1,9 @@
+F:\My Practices\Practices\HelloWorldDesktopApp\HelloWorldDesktopApp\bin\Debug\HelloWorldDesktopApp.exe.config
+F:\My Practices\Practices\HelloWorldDesktopApp\HelloWorldDesktopApp\bin\Debug\HelloWorldDesktopApp.exe
+F:\My Practices\Practices\HelloWorldDesktopApp\HelloWorldDesktopApp\bin\Debug\HelloWorldDesktopApp.pdb
+F:\My Practices\Practices\HelloWorldDesktopApp\HelloWorldDesktopApp\obj\Debug\HelloWorldDesktopApp.csprojResolveAssemblyReference.cache
+F:\My Practices\Practices\HelloWorldDesktopApp\HelloWorldDesktopApp\obj\Debug\HelloWorldDesktopApp.HelloWorldUI.resources
+F:\My Practices\Practices\HelloWorldDesktopApp\HelloWorldDesktopApp\obj\Debug\HelloWorldDesktopApp.Properties.Resources.resources
+F:\My Practices\Practices\HelloWorldDesktopApp\HelloWorldDesktopApp\obj\Debug\HelloWorldDesktopApp.csproj.GenerateResource.Cache
+F:\My Practices\Practices\HelloWorldDesktopApp\HelloWorldDesktopApp\obj\Debug\HelloWorldDesktopApp.exe
+F:\My Practices\Practices\HelloWorldDesktopApp\HelloWorldDesktopApp\obj\Debug\HelloWorldDesktopApp.pdb

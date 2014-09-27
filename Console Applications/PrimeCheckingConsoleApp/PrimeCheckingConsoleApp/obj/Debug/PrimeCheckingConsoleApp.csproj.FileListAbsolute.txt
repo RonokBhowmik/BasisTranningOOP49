@@ -1,0 +1,6 @@
+F:\My Practices\Practices\PrimeCheckingConsoleApp\PrimeCheckingConsoleApp\bin\Debug\PrimeCheckingConsoleApp.exe.config
+F:\My Practices\Practices\PrimeCheckingConsoleApp\PrimeCheckingConsoleApp\bin\Debug\PrimeCheckingConsoleApp.exe
+F:\My Practices\Practices\PrimeCheckingConsoleApp\PrimeCheckingConsoleApp\bin\Debug\PrimeCheckingConsoleApp.pdb
+F:\My Practices\Practices\PrimeCheckingConsoleApp\PrimeCheckingConsoleApp\obj\Debug\PrimeCheckingConsoleApp.csprojResolveAssemblyReference.cache
+F:\My Practices\Practices\PrimeCheckingConsoleApp\PrimeCheckingConsoleApp\obj\Debug\PrimeCheckingConsoleApp.exe
+F:\My Practices\Practices\PrimeCheckingConsoleApp\PrimeCheckingConsoleApp\obj\Debug\PrimeCheckingConsoleApp.pdb

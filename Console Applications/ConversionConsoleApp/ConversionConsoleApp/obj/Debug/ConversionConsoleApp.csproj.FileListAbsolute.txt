@@ -1,0 +1,6 @@
+F:\My Practices\Practices\Practics Set One\ConversionConsoleApp\ConversionConsoleApp\bin\Debug\ConversionConsoleApp.exe.config
+F:\My Practices\Practices\Practics Set One\ConversionConsoleApp\ConversionConsoleApp\bin\Debug\ConversionConsoleApp.exe
+F:\My Practices\Practices\Practics Set One\ConversionConsoleApp\ConversionConsoleApp\bin\Debug\ConversionConsoleApp.pdb
+F:\My Practices\Practices\Practics Set One\ConversionConsoleApp\ConversionConsoleApp\obj\Debug\ConversionConsoleApp.csprojResolveAssemblyReference.cache
+F:\My Practices\Practices\Practics Set One\ConversionConsoleApp\ConversionConsoleApp\obj\Debug\ConversionConsoleApp.exe
+F:\My Practices\Practices\Practics Set One\ConversionConsoleApp\ConversionConsoleApp\obj\Debug\ConversionConsoleApp.pdb

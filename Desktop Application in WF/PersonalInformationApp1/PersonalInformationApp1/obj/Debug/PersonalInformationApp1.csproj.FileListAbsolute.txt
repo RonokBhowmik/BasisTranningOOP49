@@ -1,0 +1,9 @@
+F:\My Practices\Practices\PersonalInformationApp1\PersonalInformationApp1\bin\Debug\PersonalInformationApp1.exe.config
+F:\My Practices\Practices\PersonalInformationApp1\PersonalInformationApp1\bin\Debug\PersonalInformationApp1.exe
+F:\My Practices\Practices\PersonalInformationApp1\PersonalInformationApp1\bin\Debug\PersonalInformationApp1.pdb
+F:\My Practices\Practices\PersonalInformationApp1\PersonalInformationApp1\obj\Debug\PersonalInformationApp1.csprojResolveAssemblyReference.cache
+F:\My Practices\Practices\PersonalInformationApp1\PersonalInformationApp1\obj\Debug\PersonalInformationApp1.ConditinalStatementAppUI.resources
+F:\My Practices\Practices\PersonalInformationApp1\PersonalInformationApp1\obj\Debug\PersonalInformationApp1.Properties.Resources.resources
+F:\My Practices\Practices\PersonalInformationApp1\PersonalInformationApp1\obj\Debug\PersonalInformationApp1.csproj.GenerateResource.Cache
+F:\My Practices\Practices\PersonalInformationApp1\PersonalInformationApp1\obj\Debug\PersonalInformationApp1.exe
+F:\My Practices\Practices\PersonalInformationApp1\PersonalInformationApp1\obj\Debug\PersonalInformationApp1.pdb

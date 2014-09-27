@@ -1,0 +1,9 @@
+F:\My Practices\Practices\IterationStatementApp\IterationStatementApp\bin\Debug\IterationStatementApp.exe.config
+F:\My Practices\Practices\IterationStatementApp\IterationStatementApp\obj\Debug\IterationStatementApp.csprojResolveAssemblyReference.cache
+F:\My Practices\Practices\IterationStatementApp\IterationStatementApp\obj\Debug\IterationStatementApp.IterationStatementAppUI.resources
+F:\My Practices\Practices\IterationStatementApp\IterationStatementApp\obj\Debug\IterationStatementApp.Properties.Resources.resources
+F:\My Practices\Practices\IterationStatementApp\IterationStatementApp\obj\Debug\IterationStatementApp.csproj.GenerateResource.Cache
+F:\My Practices\Practices\IterationStatementApp\IterationStatementApp\bin\Debug\IterationStatementApp.exe
+F:\My Practices\Practices\IterationStatementApp\IterationStatementApp\bin\Debug\IterationStatementApp.pdb
+F:\My Practices\Practices\IterationStatementApp\IterationStatementApp\obj\Debug\IterationStatementApp.exe
+F:\My Practices\Practices\IterationStatementApp\IterationStatementApp\obj\Debug\IterationStatementApp.pdb

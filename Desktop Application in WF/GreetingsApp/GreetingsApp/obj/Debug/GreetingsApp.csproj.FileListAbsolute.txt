@@ -1,0 +1,9 @@
+F:\My Practices\Practices\GreetingsApp\GreetingsApp\bin\Debug\GreetingsApp.exe.config
+F:\My Practices\Practices\GreetingsApp\GreetingsApp\bin\Debug\GreetingsApp.exe
+F:\My Practices\Practices\GreetingsApp\GreetingsApp\bin\Debug\GreetingsApp.pdb
+F:\My Practices\Practices\GreetingsApp\GreetingsApp\obj\Debug\GreetingsApp.csprojResolveAssemblyReference.cache
+F:\My Practices\Practices\GreetingsApp\GreetingsApp\obj\Debug\GreetingsApp.GreetingApplicationUI.resources
+F:\My Practices\Practices\GreetingsApp\GreetingsApp\obj\Debug\GreetingsApp.Properties.Resources.resources
+F:\My Practices\Practices\GreetingsApp\GreetingsApp\obj\Debug\GreetingsApp.csproj.GenerateResource.Cache
+F:\My Practices\Practices\GreetingsApp\GreetingsApp\obj\Debug\GreetingsApp.exe
+F:\My Practices\Practices\GreetingsApp\GreetingsApp\obj\Debug\GreetingsApp.pdb

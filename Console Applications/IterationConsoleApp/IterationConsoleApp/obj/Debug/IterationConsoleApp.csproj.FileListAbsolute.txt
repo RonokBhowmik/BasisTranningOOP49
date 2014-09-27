@@ -1,0 +1,12 @@
+F:\My Practices\Practices\IterationConsoleApp\IterationConsoleApp\bin\Debug\IterationConsoleApp.exe.config
+F:\My Practices\Practices\IterationConsoleApp\IterationConsoleApp\obj\Debug\IterationConsoleApp.csprojResolveAssemblyReference.cache
+F:\My Practices\Practices\IterationConsoleApp\IterationConsoleApp\bin\Debug\IterationConsoleApp.exe
+F:\My Practices\Practices\IterationConsoleApp\IterationConsoleApp\bin\Debug\IterationConsoleApp.pdb
+F:\My Practices\Practices\IterationConsoleApp\IterationConsoleApp\obj\Debug\IterationConsoleApp.exe
+F:\My Practices\Practices\IterationConsoleApp\IterationConsoleApp\obj\Debug\IterationConsoleApp.pdb
+F:\My Practices\Practices\Console Applications\IterationConsoleApp\IterationConsoleApp\bin\Debug\IterationConsoleApp.exe.config
+F:\My Practices\Practices\Console Applications\IterationConsoleApp\IterationConsoleApp\obj\Debug\IterationConsoleApp.exe
+F:\My Practices\Practices\Console Applications\IterationConsoleApp\IterationConsoleApp\obj\Debug\IterationConsoleApp.pdb
+F:\My Practices\Practices\Console Applications\IterationConsoleApp\IterationConsoleApp\bin\Debug\IterationConsoleApp.exe
+F:\My Practices\Practices\Console Applications\IterationConsoleApp\IterationConsoleApp\bin\Debug\IterationConsoleApp.pdb
+F:\My Practices\Practices\Console Applications\IterationConsoleApp\IterationConsoleApp\obj\Debug\IterationConsoleApp.csprojResolveAssemblyReference.cache

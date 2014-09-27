@@ -1,0 +1,12 @@
+c:\users\ronok\documents\visual studio 2012\Projects\VariousMessages\VariousMessages\bin\Debug\VariousMessages.exe.config
+c:\users\ronok\documents\visual studio 2012\Projects\VariousMessages\VariousMessages\bin\Debug\VariousMessages.exe
+c:\users\ronok\documents\visual studio 2012\Projects\VariousMessages\VariousMessages\bin\Debug\VariousMessages.pdb
+c:\users\ronok\documents\visual studio 2012\Projects\VariousMessages\VariousMessages\obj\Debug\MainWindow.baml
+c:\users\ronok\documents\visual studio 2012\Projects\VariousMessages\VariousMessages\obj\Debug\MainWindow.g.cs
+c:\users\ronok\documents\visual studio 2012\Projects\VariousMessages\VariousMessages\obj\Debug\App.g.cs
+c:\users\ronok\documents\visual studio 2012\Projects\VariousMessages\VariousMessages\obj\Debug\VariousMessages_MarkupCompile.cache
+c:\users\ronok\documents\visual studio 2012\Projects\VariousMessages\VariousMessages\obj\Debug\VariousMessages.g.resources
+c:\users\ronok\documents\visual studio 2012\Projects\VariousMessages\VariousMessages\obj\Debug\VariousMessages.Properties.Resources.resources
+c:\users\ronok\documents\visual studio 2012\Projects\VariousMessages\VariousMessages\obj\Debug\VariousMessages.csproj.GenerateResource.Cache
+c:\users\ronok\documents\visual studio 2012\Projects\VariousMessages\VariousMessages\obj\Debug\VariousMessages.exe
+c:\users\ronok\documents\visual studio 2012\Projects\VariousMessages\VariousMessages\obj\Debug\VariousMessages.pdb

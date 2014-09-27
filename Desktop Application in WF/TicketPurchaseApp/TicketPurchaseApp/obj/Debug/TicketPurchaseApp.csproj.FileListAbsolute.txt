@@ -1,0 +1,8 @@
+F:\My Practices\Practices\TicketPurchaseApp\TicketPurchaseApp\bin\Debug\TicketPurchaseApp.exe.config
+F:\My Practices\Practices\TicketPurchaseApp\TicketPurchaseApp\bin\Debug\TicketPurchaseApp.exe
+F:\My Practices\Practices\TicketPurchaseApp\TicketPurchaseApp\bin\Debug\TicketPurchaseApp.pdb
+F:\My Practices\Practices\TicketPurchaseApp\TicketPurchaseApp\obj\Debug\TicketPurchaseApp.TicketPurchaseAppUI.resources
+F:\My Practices\Practices\TicketPurchaseApp\TicketPurchaseApp\obj\Debug\TicketPurchaseApp.Properties.Resources.resources
+F:\My Practices\Practices\TicketPurchaseApp\TicketPurchaseApp\obj\Debug\TicketPurchaseApp.csproj.GenerateResource.Cache
+F:\My Practices\Practices\TicketPurchaseApp\TicketPurchaseApp\obj\Debug\TicketPurchaseApp.exe
+F:\My Practices\Practices\TicketPurchaseApp\TicketPurchaseApp\obj\Debug\TicketPurchaseApp.pdb

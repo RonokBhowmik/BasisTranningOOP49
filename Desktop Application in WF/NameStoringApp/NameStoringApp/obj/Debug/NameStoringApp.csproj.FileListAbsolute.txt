@@ -1,0 +1,9 @@
+F:\My Practices\Practices\NameStoringApp\NameStoringApp\bin\Debug\NameStoringApp.exe.config
+F:\My Practices\Practices\NameStoringApp\NameStoringApp\bin\Debug\NameStoringApp.exe
+F:\My Practices\Practices\NameStoringApp\NameStoringApp\bin\Debug\NameStoringApp.pdb
+F:\My Practices\Practices\NameStoringApp\NameStoringApp\obj\Debug\NameStoringApp.csprojResolveAssemblyReference.cache
+F:\My Practices\Practices\NameStoringApp\NameStoringApp\obj\Debug\NameStoringApp.NameStoringAppUI.resources
+F:\My Practices\Practices\NameStoringApp\NameStoringApp\obj\Debug\NameStoringApp.Properties.Resources.resources
+F:\My Practices\Practices\NameStoringApp\NameStoringApp\obj\Debug\NameStoringApp.csproj.GenerateResource.Cache
+F:\My Practices\Practices\NameStoringApp\NameStoringApp\obj\Debug\NameStoringApp.exe
+F:\My Practices\Practices\NameStoringApp\NameStoringApp\obj\Debug\NameStoringApp.pdb

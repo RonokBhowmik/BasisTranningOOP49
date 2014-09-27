@@ -1,0 +1,9 @@
+F:\My Practices\Practices\Basis Tranning\Desktop Application in WF\SalaryCalculator\SalaryCalculator\bin\Debug\SalaryCalculator.exe.config
+F:\My Practices\Practices\Basis Tranning\Desktop Application in WF\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.csprojResolveAssemblyReference.cache
+F:\My Practices\Practices\Basis Tranning\Desktop Application in WF\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.SalaryCalculatorAppUI.resources
+F:\My Practices\Practices\Basis Tranning\Desktop Application in WF\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.Properties.Resources.resources
+F:\My Practices\Practices\Basis Tranning\Desktop Application in WF\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.csproj.GenerateResource.Cache
+F:\My Practices\Practices\Basis Tranning\Desktop Application in WF\SalaryCalculator\SalaryCalculator\bin\Debug\SalaryCalculator.exe
+F:\My Practices\Practices\Basis Tranning\Desktop Application in WF\SalaryCalculator\SalaryCalculator\bin\Debug\SalaryCalculator.pdb
+F:\My Practices\Practices\Basis Tranning\Desktop Application in WF\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.exe
+F:\My Practices\Practices\Basis Tranning\Desktop Application in WF\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.pdb

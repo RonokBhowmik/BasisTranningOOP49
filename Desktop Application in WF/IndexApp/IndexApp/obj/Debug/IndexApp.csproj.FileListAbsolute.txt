@@ -1,0 +1,6 @@
+F:\My Practices\Practices\IndexApp\IndexApp\bin\Debug\IndexApp.exe.config
+F:\My Practices\Practices\IndexApp\IndexApp\bin\Debug\IndexApp.exe
+F:\My Practices\Practices\IndexApp\IndexApp\bin\Debug\IndexApp.pdb
+F:\My Practices\Practices\IndexApp\IndexApp\obj\Debug\IndexApp.csprojResolveAssemblyReference.cache
+F:\My Practices\Practices\IndexApp\IndexApp\obj\Debug\IndexApp.exe
+F:\My Practices\Practices\IndexApp\IndexApp\obj\Debug\IndexApp.pdb

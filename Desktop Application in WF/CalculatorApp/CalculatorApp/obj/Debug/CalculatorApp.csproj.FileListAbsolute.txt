@@ -1,0 +1,18 @@
+F:\My Practices\Practices\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+F:\My Practices\Practices\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+F:\My Practices\Practices\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+F:\My Practices\Practices\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojResolveAssemblyReference.cache
+F:\My Practices\Practices\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.CalculatorAppUI.resources
+F:\My Practices\Practices\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+F:\My Practices\Practices\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.Cache
+F:\My Practices\Practices\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+F:\My Practices\Practices\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
+F:\My Practices\Practices\Basis Tranning\Desktop Application in WF\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+F:\My Practices\Practices\Basis Tranning\Desktop Application in WF\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+F:\My Practices\Practices\Basis Tranning\Desktop Application in WF\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
+F:\My Practices\Practices\Basis Tranning\Desktop Application in WF\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+F:\My Practices\Practices\Basis Tranning\Desktop Application in WF\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+F:\My Practices\Practices\Basis Tranning\Desktop Application in WF\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojResolveAssemblyReference.cache
+F:\My Practices\Practices\Basis Tranning\Desktop Application in WF\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.CalculatorAppUI.resources
+F:\My Practices\Practices\Basis Tranning\Desktop Application in WF\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+F:\My Practices\Practices\Basis Tranning\Desktop Application in WF\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.Cache
