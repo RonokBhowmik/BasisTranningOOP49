@@ -1,0 +1,9 @@
+C:\Users\RONOK\Desktop\New folder\SuperShopApp\SuperShopApp\bin\Debug\SuperShopApp.exe.config
+C:\Users\RONOK\Desktop\New folder\SuperShopApp\SuperShopApp\bin\Debug\SuperShopApp.exe
+C:\Users\RONOK\Desktop\New folder\SuperShopApp\SuperShopApp\bin\Debug\SuperShopApp.pdb
+C:\Users\RONOK\Desktop\New folder\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.csprojResolveAssemblyReference.cache
+C:\Users\RONOK\Desktop\New folder\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.Properties.Resources.resources
+C:\Users\RONOK\Desktop\New folder\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.SuperShopUI.resources
+C:\Users\RONOK\Desktop\New folder\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.csproj.GenerateResource.Cache
+C:\Users\RONOK\Desktop\New folder\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.exe
+C:\Users\RONOK\Desktop\New folder\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.pdb
